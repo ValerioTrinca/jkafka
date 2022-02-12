@@ -1,5 +1,4 @@
 #!/bin/sh
 
-echo "Building jar file"
-
+echo "==== RUNNING DOCKER COMPOSE ===="
 docker-compose up
